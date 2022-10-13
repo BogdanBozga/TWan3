@@ -1,0 +1,79 @@
+body {
+    background-color: #2A363F;
+}
+.login-button {
+  background-color: #6ED9A0;
+  /* Makes the text white. */
+  color: #FFFFFF;
+  text-align: center;
+  /* Add round borders. */
+  border-radius: 8px;
+  /* Padding works life an internal-margin. */
+  padding-left: 70px;
+  padding-right: 70px;
+  padding-top:  10px;
+  padding-bottom:  10px;
+  font-size: 16px;
+  margin-top: 20px;
+  /* Apply our custom font. */
+  font-family: "Source Sans Pro", sans-serif;
+  /* <button> tag will add default styling, we want to discard it. */
+  border:  none;
+}
+.email-input {
+  border:  1px solid #64C292;
+  background:  transparent;
+  padding:  10px 30px 10px 30px;
+  border-radius:  10px;
+  color:  white;
+}
+.password-input {
+  border:  1px solid #64C292;
+  background:  transparent;
+  margin-top: 15px;
+  padding:  10px 30px 10px 30px;
+  border-radius:  10px;
+  color:  white;
+}
+.login-form {
+  /*  Use flexbox. */
+  display:  flex;
+  /* By default, it will be in a single horizontal row. */
+  flex-direction: column;
+  /* Align vertically and horizontally. */
+  justify-content: center;
+  align-items: center;
+}
+.branding-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.title-container {
+  display:  flex;
+  flex-direction: column;
+  /* Vertical alignment. */
+  justify-content: center;
+  /* This time, we don't want horizontal alignment. */
+  /* Flex-start would mean left-alignment. */
+  align-items: flex-start;
+}
+.page-container {
+  display:  flex;
+  justify-content: center;
+  align-items:  center;
+  flex-wrap:  wrap;
+  vertical-align: center;
+  padding-top: 100px;
+}
+
+.vl {
+    border-left: 3px solid #14181c;
+    border-radius: 100px;
+    height: 200px;
+    opacity: 0.6;
+    left: 50%;
+    margin-left: 30px;
+    margin-right: 30px;
+    top: 0;
+}
