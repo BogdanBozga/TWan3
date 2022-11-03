@@ -1,0 +1,89 @@
+body {
+  background-color: #2a363f;
+}
+
+.login-button {
+  color: #fff;
+  text-align: center;
+  background-color: #6ed9a0;
+  border: none;
+  border-radius: 8px;
+  margin-top: 20px;
+  padding: 10px 70px;
+  font-family: Source Sans Pro, sans-serif;
+  font-size: 16px;
+}
+
+.email-input, .name-input {
+  color: #fff;
+  background: none;
+  border: 1px solid #64c292;
+  border-radius: 10px;
+  margin-top: 10px;
+  padding: 10px 30px;
+}
+
+.date-input {
+  color: #fff;
+  background: none;
+  border: 1px solid #64c292;
+  border-radius: 10px;
+  margin-top: 15px;
+  padding: 10px 30px;
+}
+
+.password-input {
+  color: #fff;
+  background: none;
+  border: 1px solid #64c292;
+  border-radius: 10px;
+  margin-top: 10px;
+  padding: 10px 30px;
+}
+
+.login-form {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.branding-container {
+  flex-direction: row;
+  display: flex;
+}
+
+.title-container {
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  display: flex;
+}
+
+.page-container {
+  vertical-align: center;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding-top: 100px;
+  display: flex;
+}
+
+.vl {
+  height: 200px;
+  opacity: .6;
+  border-left: 3px solid #14181c;
+  border-radius: 100px;
+  margin-left: 30px;
+  margin-right: 30px;
+  top: 0;
+  left: 50%;
+}
+
+.forgoten-password {
+  opacity: .8;
+  color: #14181c;
+  margin-top: 10px;
+}
+
+/*# sourceMappingURL=index.4d663569.css.map */

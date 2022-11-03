@@ -1,0 +1,14 @@
+13
+48/home/bbozga/SchoolProjects/TW/Lab3/src/index.js1666856925932322821 0
+39/home/bbozga/SchoolProjects/TW/Lab3/src1666855840649891616 1
+62/home/bbozga/SchoolProjects/TW/Lab3/dist/index.579125c3.js.map1666856926095659031 0
+58/home/bbozga/SchoolProjects/TW/Lab3/dist/index.579125c3.js1666856926095659031 0
+61/home/bbozga/SchoolProjects/TW/Lab3/dist/Lab3.3464ddca.js.map1666856926082325463 0
+57/home/bbozga/SchoolProjects/TW/Lab3/dist/Lab3.3464ddca.js1666856926075658679 0
+61/home/bbozga/SchoolProjects/TW/Lab3/dist/Lab2.3464ddca.js.map1666853899922794366 0
+51/home/bbozga/SchoolProjects/TW/Lab3/dist/index.html1666857041847697064 0
+57/home/bbozga/SchoolProjects/TW/Lab3/dist/Lab2.3464ddca.js1666853899919460982 0
+40/home/bbozga/SchoolProjects/TW/Lab3/dist1666857041847697064 1
+45/home/bbozga/SchoolProjects/TW/Lab3/style.css1665644312701350658 0
+46/home/bbozga/SchoolProjects/TW/Lab3/index.html1666857041767695655 0
+35/home/bbozga/SchoolProjects/TW/Lab31666855832893088717 1

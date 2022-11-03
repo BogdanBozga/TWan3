@@ -1,0 +1,8 @@
+7
+61/home/bbozga/SchoolProjects/TW/Lab2/dist/Lab2.3464ddca.js.map1666853899922794366 0
+40/home/bbozga/SchoolProjects/TW/Lab2/dist1666853899922794366 1
+46/home/bbozga/SchoolProjects/TW/Lab2/index.html1665644311524678731 0
+57/home/bbozga/SchoolProjects/TW/Lab2/dist/Lab2.3464ddca.js1666853899919460982 0
+51/home/bbozga/SchoolProjects/TW/Lab2/dist/index.html1666853899889460526 0
+45/home/bbozga/SchoolProjects/TW/Lab2/style.css1665644312701350658 0
+35/home/bbozga/SchoolProjects/TW/Lab21666853899879460374 1

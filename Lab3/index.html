@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Parcel Sandbox</title>
+    <meta charset="UTF-8" />
+  </head>
+
+  <body>
+    <div>
+    </div>
+    <div id="container">
+      <div class="product">
+        <img src="https://dummyjson.com/image/i/products/1/1.jpg" />
+        <span class="title">IPhone 9</span>
+        <span class="description"
+          >An apple mobile which is nothing like apple.</span
+        >
+        <span class="price">499$</span>
+      </div>
+
+      <div class="product">
+        <img src="https://dummyjson.com/image/i/products/1/1.jpg" />
+        <span class="title">Universal Phone</span>
+        <span class="description">Revolutionary smartphone with keyboard.</span>
+        <span class="price">199$</span>
+      </div>
+    </div>
+
+    <script src="src/index.js"></script>
+    <form action="/action_page.php">
+      <label for="title">Title</label><br>
+      <input type="text" id="title" name="title"><br>
+      <label for="description">Description</label><br>
+      <input type="text" id="description" name="description"><br><br>
+      <label for="price">Price</label><br>
+      <input type="text" id="price" name="price"><br><br>
+      <input id="addProduct" type="submit" value="Add">
+    </form>
+  </body>
+</html>
